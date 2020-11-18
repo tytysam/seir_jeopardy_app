@@ -1,10 +1,10 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly)
 
-#  W07D05 Homework
+#  W08d01 Homework
 
 ## Tasks
 
-1) **Fork and clone** this repository into your `W07D05` directory
+1) **Fork and clone** this repository into your `W08D01` directory
 
 2) **Do:** [JS Service Api](./js-service-api.md)
 
