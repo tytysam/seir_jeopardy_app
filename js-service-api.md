@@ -6,7 +6,7 @@ http://jservice.io/
 
 Make a Jeopardy Trivia App using jService!
 
-![Sample Jeopardy Trivia App appearance](blob:https://imgur.com/a5138787-8f88-45ba-bfda-663b67d2cfed)
+![Sample Jeopardy Trivia App appearance](https://imgur.com/a5138787-8f88-45ba-bfda-663b67d2cfed)
 
 # Technical Requirements
 
